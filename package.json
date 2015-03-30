@@ -1,0 +1,24 @@
+{
+  "name": "grunt-filerev-mate",
+  "version": "0.0.0",
+  "description": "filerev好伴侣。。好吧，我还没想好描述",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chyingp/grunt-filerev-mate.git"
+  },
+  "keywords": [
+    "grunt",
+    "filerev",
+    "replace"
+  ],
+  "author": "chyingp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chyingp/grunt-filerev-mate/issues"
+  },
+  "homepage": "https://github.com/chyingp/grunt-filerev-mate"
+}
