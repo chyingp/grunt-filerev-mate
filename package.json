@@ -1,7 +1,7 @@
 {
   "name": "grunt-filerev-mate",
   "version": "0.0.0",
-  "description": "filerev好伴侣。。好吧，我还没想好描述",
+  "description": "A grunt plugin run after grunt-filerev, which will replace image urls in css files with reved ones.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
